@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mrtushar1324/DSA-questions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Mrtushar1324/DSA-questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Mrtushar1324/DSA-questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Mrtushar1324/DSA-questions/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mrtushar1324/DSA-questions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Mrtushar1324/DSA-questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mrtushar1324/DSA-questions/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Mrtushar1324/DSA-questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
