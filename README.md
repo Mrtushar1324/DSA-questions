@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mrtushar1324/DSA-questions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mrtushar1324/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Mrtushar1324/DSA-questions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Mrtushar1324/DSA-questions/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mrtushar1324/DSA-questions/tree/master/0704-binary-search) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mrtushar1324/DSA-questions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Mrtushar1324/DSA-questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mrtushar1324/DSA-questions/tree/master/0231-power-of-two) |
 ## Number Theory
