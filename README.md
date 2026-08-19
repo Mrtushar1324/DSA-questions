@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mrtushar1324/DSA-questions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Mrtushar1324/DSA-questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mrtushar1324/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mrtushar1324/DSA-questions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Mrtushar1324/DSA-questions/tree/master/0238-product-of-array-except-self) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Mrtushar1324/DSA-questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mrtushar1324/DSA-questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
