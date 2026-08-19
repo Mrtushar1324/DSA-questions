@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Mrtushar1324/DSA-questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Mrtushar1324/DSA-questions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Mrtushar1324/DSA-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0088-merge-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Mrtushar1324/DSA-questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Mrtushar1324/DSA-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0088-merge-sorted-array) |
 ## Binary Search
