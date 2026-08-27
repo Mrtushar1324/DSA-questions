@@ -4,7 +4,7 @@ public:
         int prof=0;
         int bb=prices[0];
         for(int i=0;i<prices.size(); i++){
-            if(prices[i]>=prof){
+            if(prices[i]>prof){
                 prof = max(prof, prices[i]-bb);
             }
             bb=min (bb , prices[i]);
