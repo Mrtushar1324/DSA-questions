@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mrtushar1324/DSA-questions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Mrtushar1324/DSA-questions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Mrtushar1324/DSA-questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Mrtushar1324/DSA-questions/tree/master/0035-search-insert-position) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Mrtushar1324/DSA-questions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Mrtushar1324/DSA-questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mrtushar1324/DSA-questions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Mrtushar1324/DSA-questions/tree/master/0344-reverse-string) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Mrtushar1324/DSA-questions/tree/master/0567-permutation-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mrtushar1324/DSA-questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
