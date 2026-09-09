@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Mrtushar1324/DSA-questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mrtushar1324/DSA-questions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Mrtushar1324/DSA-questions/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mrtushar1324/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mrtushar1324/DSA-questions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Mrtushar1324/DSA-questions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Mrtushar1324/DSA-questions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mrtushar1324/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Mrtushar1324/DSA-questions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mrtushar1324/DSA-questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Mrtushar1324/DSA-questions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Mrtushar1324/DSA-questions/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mrtushar1324/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mrtushar1324/DSA-questions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Mrtushar1324/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
