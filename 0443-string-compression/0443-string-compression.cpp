@@ -1,12 +1,12 @@
 class Solution {
 public:
     int compress(vector<char>& chars) {
-        int idx=0;
         int n=chars.size();
-        for(int i=0;i<chars.size(); i++){
+        int idx=0;
+        for(int i=0 ; i<n; i++){
             char ch=chars[i];
             int count=0;
-            while(i<n && ch==chars[i]){
+            while( i<n  && chars[i]==ch){
                 count++;
                 i++;
             }
@@ -15,14 +15,14 @@ public:
             }
             else{
                 chars[idx++]=ch;
-                string str=to_string(count);
-                for(char dig : str){
+                string c= to_string(count);
+                for(char dig:c){
                     chars[idx++]=dig;
                 }
             }
             i--;
+
         }
-        chars.resize(idx);
         return idx;
     }
 };
