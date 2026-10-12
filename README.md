@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mrtushar1324/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mrtushar1324/DSA-questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mrtushar1324/DSA-questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mrtushar1324/DSA-questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mrtushar1324/DSA-questions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mrtushar1324/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Mrtushar1324/DSA-questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mrtushar1324/DSA-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mrtushar1324/DSA-questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mrtushar1324/DSA-questions/tree/master/0217-contains-duplicate) |
 ## Quicksort
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mrtushar1324/DSA-questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Mrtushar1324/DSA-questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mrtushar1324/DSA-questions/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/Mrtushar1324/DSA-questions/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mrtushar1324/DSA-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting
