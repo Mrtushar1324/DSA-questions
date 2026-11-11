@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mrtushar1324/DSA-questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Mrtushar1324/DSA-questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mrtushar1324/DSA-questions/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/Mrtushar1324/DSA-questions/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mrtushar1324/DSA-questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mrtushar1324/DSA-questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Mrtushar1324/DSA-questions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Mrtushar1324/DSA-questions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mrtushar1324/DSA-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Mrtushar1324/DSA-questions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mrtushar1324/DSA-questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mrtushar1324/DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Mrtushar1324/DSA-questions/tree/master/2965-find-missing-and-repeated-values) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mrtushar1324/DSA-questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
